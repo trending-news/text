@@ -1,0 +1,36 @@
+---
+layout: post
+title: "A Look Back at the Glory Days of the SNES"
+date:   2024-04-20 11:36:44 +0000
+categories: Gaming
+excerpt_image: https://images.nintendolife.com/62175289d5537/1280x720.jpg
+---
+
+### The Impact of the SNES
+The Super Nintendo Entertainment System, or SNES, launched in 1991 taking Nintendo's graphics and gameplay to new heights. Compared to its predecessor the NES, the SNES had vastly improved hardware capabilities that allowed for more complex games. Titles like Super Mario World pushed the system to its limits and showed gamers a glimpse of what was possible on the new 16-bit platform. The SNES launch marked an exciting new era for console gaming.
+
+![](https://images.nintendolife.com/62175289d5537/1280x720.jpg)
+### SNES Platforming Legends
+Platformers thrived on the SNES, led by genre defining titles like Super Mario World. Yoshi's colorful prehistoric adventures in Yoshi's Island were a joy to play through. Donkey Kong Country took platforming to new visual heights with pre-rendered 3D graphics. The DKC series set a new standard for music and level design. These platformers are fondly remembered for good reason - they're just pure fun to play. 
+### memorable RPG Worlds
+Role playing games found a loyal audience on the SNES. The epic scale of Final Fantasy VI with its cast of memorable characters is still praised today. Chrono Trigger merged time travel and diverse gameplay into a masterpiece. EarthBound brought Japanese RPG weirdness to the west. Secret of Mana allowed cooperative multiplayer in a deep fantasy world. The engaging stories and gameplay of these SNES RPGs left a lasting impression.
+### Explosive Shoot-'Em-Ups
+Shoot 'em up games, also called "shmups", thrived on the SNES's processing power. Gradius III took the side-scrolling shooter to new heights with massive end-bosses. U.N. Squadron let players take to the skies in an all range mode able to swap between aircraft. These intense shmups tested player's reflexes and mastery of unique power-ups. Their addictive gameplay still finds an audience today. 
+### Fierce Fighting Games 
+Competitive fighting games found their stride on the SNES. Street Fighter II became a global phenomenon, letting players assume the role of iconic characters to battle it out. Games like Super Punch-Out!! and Killer Instinct brought equally intense one-on-one fighting. Whether played locally or through multiplayer connections, these fighting games were a major source of entertainment and rivalry among players.
+### An Advancement over the NES  
+While great games like Super Mario Bros. 3 kept the NES relevant, the technical leap of the SNES was undeniable. A Link to the Past on the SNES introduced elements like bigger worlds and more advanced enemies that were impossible on the 8-bit NES. Mode 7 rotation effects showed off the SNES's processing capabilities. Games simply played better and looked sharper compared to their NES predecessors thanks to the new 16-bit power under the hood.
+### Saving Progress in Games
+A major advancement the SNES brought was the ability to reliably save your progress in games mid-playthrough. While passwords were still common, games started offering internal battery-backed saves. This was a godsend for notoriously difficult games that were nearly impossible to beat in a single long play session. Gamers could finally put down notoriously punishing games like Super Ghouls 'n Ghosts and pick up right where they left off later.
+### Reliving the SNES Today
+Thanks to emulation software, gamers can still easily play SNES games today on PCs and smartphones entirely legally by providing their own ROMs. The SNES Mini Classic console also collects 20 of the best games together economically. Meanwhile, many prime SNES titles have been re-released digitally on services like Nintendo Switch Online, allowing new generations to discover these classics. Retro gaming communities keep the SNES's legacy alive with their appreciation and preservation efforts long after the system's prime.
+### A Wealth of Iconic Accessories
+Beyond the standard SNES controller, the system had some unique and iconic add-ons. The Super GameBoy adapter let players take beloved Game Boy hits on the road or experience them enhanced on the television. Light gun peripherals like the Justifier added immersive light-based games to the lineup. Meanwhile, the ill-fated R.O.B. robot brought some fun but ultimately limited experiences to a select few games. These novel devices expanded upon the SNES experience.
+### Passionate Fandom and Community
+Despite being released over 25 years ago, the SNES has retained a massive dedicated fan following. Online communities allow enthusiasts to discuss favorite games, share strategies, and stay engaged with the library. Meanwhile, younger generations are continually exposed to iconic SNES licenses like Mario, Donkey Kong and The Legend of Zelda through modern re-releases. This lasting interest in the 16-bit era is a testament to the memorable experiences the SNES hardware and games provided players.
+### Ongoing Legacy and Influence
+The SNES left an undeniable legacy that still resonates strongly today. Its technical innovations at the time pushed the boundaries of what was possible for consoles. More importantly, it birthed titles that have endured for years as all-time classics across genres. The SNES era pioneered mechanics and established standards still seen across modern gaming. For many lifelong fans, it remains one of the greatest video game systems of all time that cannot be replicated purely based on the joy found in its library. The SNES era was truly gaming's golden age.
+# Comparing Prices for Used SNES Systems
+When searching online marketplaces for used original SNES hardware, there can be variety in pricing depending on included items and condition. A basic SNES console alone in fair condition typically sells for $50-75 USD on sites like eBay. If games are included, prices will usually range from $75-150 depending on the titles. Systems in near-mint, like new condition with controllers and a popular game or two can fetch up to $200 currently. Overall condition, included accessories and scarcity of included games factors into pricing in the thriving retro game collecting community.
+# Final Fond Memories of the SNES
+For millions of devoted fans worldwide, the SNES era remains a special time of discovery and entertainment. Whether playing solo or joining in multiplayer battles, its games provided countless hours of enjoyment. Platforming through colorful lands as Mario, uncovering intricate RPG plots or battling opponents in fighting games - the library has experiences that appeal to all types of gamers. Even today, dedicated communities exist online to discuss strategies, trade information and keep the system's colorful legacy alive for future generations. For many who grew up with the hardware, the SNES evokes a strong sense of nostalgia and fondly remembered gameplay that defines one of gaming's true "golden ages". Its impact and influence continues strongly influencing the industry even over 25 years since its peak. The Super Nintendo Entertainment System truly earned its title as one of the all-time greatest consoles.

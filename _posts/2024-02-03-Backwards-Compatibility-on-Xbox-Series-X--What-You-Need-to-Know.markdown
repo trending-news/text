@@ -1,0 +1,28 @@
+---
+layout: post
+title: "Backwards Compatibility on Xbox Series X: What You Need to Know"
+date:   2024-02-03 09:41:11 +0000
+categories: Gaming
+excerpt_image: https://i.ytimg.com/vi/Batf5RTYtlI/maxresdefault.jpg
+---
+
+### Playing generations of Xbox games 
+The Xbox Series X brings a massive library of backwards compatible games from across 4 generations of Xbox consoles. With over 600 Xbox 360 titles and 60 original Xbox games supported at launch, gamers can enjoy classics from the past like Fable, Project Gotham Racing, and Star Wars: Knights of the Old Republic. All games from the Xbox One will work as well through backwards compatibility. By leveraging the powerful new hardware, Series X is able to run older games through emulation at higher and more consistent performance than their original releases.
+
+![](https://i.ytimg.com/vi/Batf5RTYtlI/maxresdefault.jpg)
+### Performance boosts for classic games
+While backwards compatible games run as-is, many benefit greatly from the Series X's upgraded internals. Loading times are drastically reduced thanks to the ultra-fast SSD. Framerates that once dipped can now hold steady. Through features like auto HDR and higher resolutions up to 4K, select 360 and OG Xbox titles see visual enhancements that make their aged graphics look new. Multiplatform games from last-gen like Skyrim and Dark Souls III will surely shine with their assets given new life. Even unoptimized indies and lesser-known games get new life through stable emulation. 
+### Smart Delivery - one purchase, all platforms
+To ensure a smooth transition between consoles old and new, Microsoft developed Smart Delivery. This technology means that qualifying games like Halo Infinite, purchased on any Xbox platform, will provide the best version available for whichever Xbox is being played on. No need to repurchase - your game library carries forward in its optimal form. Game saves likewise pass between systems seamlessly. Whether playing first on Xbox One then upgrading, or vice versa, Smart Delivery handles everything behind the scenes.
+### Expansive storage for your entire collection 
+While the Series X touts a 1TB NVMe solid state drive for lightning fast access, its bay also supports USB 3.0 external HDDs. Plug in any external drive and instantly expand storage to hold your full library, offloading titles between internal and external storage at will. With over 100 games commonly taking 100GB each nowadays, external drives ensure you never have to delete favorites to make room. Series X recognizes that gamers sink thousands of hours into various games over many years - it aims to keep that entire journey accessible.
+### Hundreds of games through subscription services
+Alongside owning games, Xbox subscriptions provide affordable access to massive continually growing catalogs. Xbox Game Pass gives members downloads of over 100 high-quality titles across 4 generations of Xbox, with new additions every month. Switch between them as you please on any Xbox device. Alongside backward compatibility, existing digital purchases and Games with Gold are also expected to carry over to Series X, providing a true all-in-one gaming service.
+### Backwards compatibility limitations
+While the aim is to play "thousands of games across four console generations", certain limitations exist. Support depends on third party publisher approval and whether game code can be properly emulated on different architectures. Kinect and Flash-based arcade-style games from the past may not work due to technical challenges. Still, the level of compatibility far exceeds anything seen from Sony or Nintendo's latest generations. Series X treats a gamer's extensive back-catalog as an important asset instead of leaving it to gather dust.
+### Graphical differences between Series S and X
+Xbox Series S brings next-gen gaming at a more affordable price but compromises on pure horsepower. While still capable of 1440p output, some enhanced backwards compatible titles may render at lower resolutions or with reduced visuals compared to Series X's native 4K target. Simple classic games from 360/OG Xbox era should perform similarly on both, but newer and more demanding cross-gen titles may showcase the power gap more evidently. Optimized games take full advantage of each system's optimized specs.
+### A shift to subscriptions over console generations
+By rolling Xbox Game Pass and backwards compatibility into their unified vision, Microsoft signals a coming paradigm shift. The focus transitions from owning individual titles to retaining users through a subscription-based service spanning console generations. Over time, older games could realistically rotate in and out of availability within Game Pass depending on licensing agreements. But for those with immense digital libraries amassed over decades, Series X ensures it remains playable and boosted for years ahead.  
+### Backwards compatibility drives Series X adoption
+For those who invested heavily in Xbox ecosystem over the years, Series X serves as a major incentive to continue that journey. Being able to play thousands of older games in enhanced forms is a huge advantage over starting fresh on competing platforms. With Smart Delivery and auto updates, your extensive catalog seamlessly follows you between Xbox devices present and future. Backwards compatibility reinforces Microsoft's commitment to loyalty while competitors ignore legacy owners. It helps maintain relevance across hardware transitions and strengthens brand loyalty for decades to come.

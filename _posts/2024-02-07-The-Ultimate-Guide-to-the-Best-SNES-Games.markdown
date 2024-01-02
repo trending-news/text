@@ -1,0 +1,50 @@
+---
+layout: post
+title: "The Ultimate Guide to the Best SNES Games"
+date:   2024-02-07 19:54:24 +0000
+categories: Gaming
+excerpt_image: http://retrododo.com/wp-content/uploads/2019/08/best-snes-games.jpg
+---
+
+## Platforming Classics
+### Super Mario World
+The legendary Super Mario World remains a masterclass in platform game design. With beautifully crafted levels across unique worlds, tight controls, and Mario's expansive moveset, it pushes the SNES to its limits and beyond. Players guide Mario through grassy plains, slippery ice levels, sandy beaches and more as he searches for the kidnapped Princess Peach. Along the way, players will discover magic capes, vanish boxes, and hidden 1-Up Mushrooms. The game introduced Yoshi, who helped Mario reach new areas and chomp enemies. Its soundtrack remains iconic to this day. Overall, Super Mario World is arguably the best 2D Mario game ever made.
+
+![](http://retrododo.com/wp-content/uploads/2019/08/best-snes-games.jpg)
+### Donkey Kong Country 
+Donkey Kong Country also dazzled SNES players with its pre-rendered visuals. Combining auto-scrolling levels, collectibles and Kong's agile moves, its intricately designed jungle environments were a sight to behold. Players guided Donkey and Diddy through treacherous tree-tops, rickety rope bridges and more. Its animation and graphics pushed the system to new heights. The memorable Kremlings and minecart levels challenged players in creative new ways. To this day, its soundtrack fills players with jungle adventure vibes. Donkey Kong Country is widely considered one of the best platformers on the SNES.
+## RPG Greats
+### Super Mario RPG: Legend of the Seven Stars
+Super Mario RPG blended Mario's iconic world with deep RPG mechanics. Its charming story features Mario, Princess Peach and friends discovering the sinister plans of villain Smithy. Players engaged enemies in turn-based battles with timing-based attacks and signature Mario moves. The game introduced iconic characters including Geno and Mallow. Its soundtrack incorporated familiar Mario themes with orchestral RPG flair. Beyond its gameplay, Super Mario RPG excelled with its humor, heart and memorable moments. Overall it remains one of the best RPGs on the SNES. 
+### Final Fantasy VI 
+The epic Final Fantasy VI also featured an emotionally gripping story and one of the series' most memorable villains. With a cast of over a dozen playable characters, each with their own motivations and story arcs, it brought unprecedented scope and depth to the genre. Its beautifully rendered pre-cursor scenes transported players to iconic cities, mystical forests and more. Touted for its innovative Active Time Battle system and ability to equip magic and skills to any character, its gameplay was ahead of its time. Add in one of video game's most renowned soundtracks and FFVI endures as a pinnacle of 16-bit RPGs.
+## Chrono Trigger's Timeless Adventure
+### Chrono Trigger
+This Square RPG classic wowed players with its intricate time-travel plot. As they guided a party including warrior Crono, princess Marle and mystic Lucca, choices shaped the story in countless ways. Players explored a vibrant world teeming with secrets, from prehistoric forests to post-apocalyptic wastelands. Its animations and dynamic battles were unparalleled. Beyond its gameplay, Chrono Trigger connected through universally relatable themes like friendship, willpower and finding purpose. Its score uplifted each jaw-dropping revelation and surprise. To this day, Chrono Trigger remains a flawless gem and one of the greatest RPGs ever made. 
+## Action Adventures of Legend
+### The Legend of Zelda: A Link to the Past
+The Legend of Zelda: A Link to the Past introduced Link's iconic downward thrust and concept of Light and Dark worlds. Its overworld bursting with dungeons, secrets and optional areas set the benchmark for exploration-based Zelda design. Link's equipment like bombs, hookshots and magic mirror enhanced puzzle-solving. The game conveyed a true sense of adventure with its masterfully crafted world. Townspeople offers hints for Link's quest. Its music brings joy and wonder to this day. A Link to the Past still stands among the pinnacle entries of its genre.
+### Secret of Mana 
+Meanwhile, another Square hit Secret of Mana pioneered real-time co-op RPG gameplay. Players guided a warrior, mage and rogue through colorful forests, icy caves and more. Its action-packed combat invited experimentation through combos and spells. Progress was gated by weapon upgrades from dungeons requiring teamwork. Beyond gameplay, Mana excelled with its inspiring soundtrack and story of courage against oppression. Even today, its bright visuals and innovation leave an impact. Secret of Mana revolutionized RPG design.
+## Metroid at its Peak
+### Super Metroid
+Super Metroid crafted the benchmark for explorative side-scrolling action. Samus explored a sprawling alien world dripping with atmosphere. Upgrades seamlessly enhanced progression through new abilities like the Morph Ball and Screw Attack. Maps revealed unseen pathways begging discovery. Memorable bosses and hidden items kept players engaged. Its fluid movements and adaptive soundtrack elevated each new discovery. Super Metroid gave meaning to the term "non-linear" before open world was ubiquitous. Even today, its interconnected world transports players like no other Metroidvania. Overall it stands as one the definitive 2D action platforms of all time.
+## Fighting Games in Their Golden Age
+### Street Fighter II Turbo
+Street Fighter II Turbo introduced balanced gameplay systems and competitive culture. Its roster featured fan favorites Ryu, Ken, Chun-Li and more with movesets ranging from simple to technical. From special moves to super combos, its systems provided ample depth while remaining accessible. Multiplayer invited endless experimentation and improvement. Tournament scenes dominated arcades. SF2Turbo proved fighting games could satisfy players of all skill levels and sparked one of gaming's most intense communities. It remains the definitive entry of the pioneering franchise. 
+### Ultimate Mortal Kombat 3  
+The four-player Ultimate Mortal Kombat 3 took the series to new levels of gory sprite-based fighting mayhem. The game featured iconic ninjas Scorpion and Sub-Zero alongside new characters like cybernetic ninja Cyrax. Beyond special moves, each fighter had unique fighting styles, keeping matches fresh. Its iconic Fatalities went over the top with decapitations and limb removals. MK3 established the series' reputation as the goriest fighter on the market while retaining tight competitive gameplay. It appealed deeply to both fighting aficionados and button mashers alike.
+## Runners, Shooters and More
+### Contra III: The Alien Wars
+The fast-paced Contra III thrilled with its co-op multiplayer simplicity yet punishing difficulty. Players gunned down hordes of alien invaders across several theaters of war. Upgrades like machine guns and flamethrowers invited experimentation. Its responsive controls set players up to dodge bullets with frame-perfect timing. Contra III pushed co-op action to exhilarating new heights and tested even the most skilled duo. Its energizing soundtrack still hypes up to this day. Contra III stands tall among run-and-gun legends. 
+### Gradius III
+Gradius III pushed 2D shoot-em-ups to engrossing new heights with layers of customization. Players chose a ship then upgraded weapons like lasers, spread shots and shields. Later levels introduced intimidating boss encounters. Spread modes multiplied firepower for intense clear speeds. Beyond twitch gameplay, Gradius III invited experimentation through its options. Its audiovisuals transported players into the cosmos with nebulas and sci-fi wonder. Gradius III set the bar for addictive 2D shooters.
+### Killer Instinct  
+The multiplayer party game classic Killer Instinct featured not just fighting but over-the-top ultra combo finishes. Players selected warriors with unique movesets and special abilities to battle same-screen friends or worldwide via the SNES Multitap accessory. Complex combo inputs stood alongside casual gameplay allowing all skill levels to enjoy the mayhem. Its outstanding presentation tied it all together with unforgettable music and spritework. Today, KI remains a definitive arena fighter that pushed Boundaries decades ago.
+## RPGs of Fantasy and Sci-Fi
+### Star Fox
+The Star Fox series leaned into Mode 7 effects. Star Fox 2, never before released outside Japan, recently got the worldwide launch it deserved. Players flew arwing fighters across planets engaging enemies in furious dogfights through cities and space. On-rails shooting mixed with branching paths depending on performance. Its intuitive controls blended accessibility with technical maneuvering. Boss battles tested piloting acumen. Star Fox transported players into the cockpit for sci-fi adventure like no other franchise on SNES. 
+### Tales of Phantasia
+RPG fans were also treated to the epic Tales of Phantasia, featuring vibrant anime aesthetics and real-time combat decades before the genre took off in the West. Players guided a party of heroes across mystical lands engaging enemies with combo-focused battles. Its deep character progression and heartfelt story connected players to its world and troupe of heroes confronting loss and destiny. Phantasia established Koei's seminal Tales series with its engaging storytelling through 16-bit power.
+### EarthBound
+Meanwhile, RPG EarthBound brought its quirky story and unique atmosphere to the West for the first time. Players explored a retro 50s-inspired world collecting weapons like baseball bats and beating enemies with rap lyrics. Its comedic yet touching narrative features a boy prophet defending against alien invasion. EarthBound cemented its cult following with endless charm and imagination within technical limitations. Its distinct soundtrack complements the adventure's offbeat nature perfectly. Ness'

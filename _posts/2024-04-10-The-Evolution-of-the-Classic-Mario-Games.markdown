@@ -1,0 +1,28 @@
+---
+layout: post
+title: "The Evolution of the Classic Mario Games"
+date:   2024-04-10 11:59:36 +0000
+categories: Gaming
+excerpt_image: http://orig10.deviantart.net/9da2/f/2015/240/1/7/super_mario_evolution_by_leonardusky-d97g502.jpg
+---
+
+### Mario's Arcade Debut in Donkey Kong
+Mario first appeared in the 1981 arcade game Donkey Kong where he had to rescue Pauline from the ape. The game introduced jumping over obstacles and smashing enemies with hammers. If Mario fell from a great height or touched an enemy he would die, limiting his 3 lives. Donkey Kong laid the foundations for Mario's platforming skills and established his heroic role of saving Princess Peach. Though a modest start, it began Mario's journey to becoming a legendary gaming icon. 
+
+![](http://orig10.deviantart.net/9da2/f/2015/240/1/7/super_mario_evolution_by_leonardusky-d97g502.jpg)
+### Underground Adventures with Mario Bros.  
+The 1983 side-scrolling game featured Mario and Luigi working to defeat enemies underground. Players had to flip enemies over with jumps then run into their exposed undersides to defeat them. Fireballs would spawn periodically adding challenge to defeating all enemies on a stage. Mario Bros introduced the pairing of Mario and Luigi working together and established side-scrolling gameplay that would define the series. Though a simple arcade game, it showed there was potential for Mario outside of Donkey Kong.
+### The Iconic Masterpiece of Super Mario Bros.
+Super Mario Bros. set the template for future 2D Mario platformers upon its 1985 release. It introduced power-ups like Super Mushrooms and Fire Flowers that changed Mario in creative ways. New mechanics like breaking bricks from below and defeating most enemies from above expanded gameplay. The memorable soundtrack, level design, and personality of the characters made Super Mario Bros. an instant hit. It demonstrated platformers could achieve mainstream popularity and cultural impact. Decades later, its gameplay remains the standard by which all others in the genre are compared to.  
+### The Notorious Difficulty of The Lost Levels 
+A controversial 1986 Japanese sequel notorious for extreme difficulty, it played nearly identical to the original but with brutally designed levels. Luigi mode featured his higher jumps but loss of running speed, adding another challenge. While overwhelmingly difficult, it showcased how sequels could iterate and improve upon the same gameplay. The Lost Levels highlighted both the creativity and trial-and-error nature inherent to platformers. Though too punishing for most, it demonstrated the desire for continued evolution in the Mario series.
+### The Innovative Power-Ups of Super Mario Bros. 2
+A 1988 departure that featured choice of characters with different abilities. Mario, Luigi, Princess, and Toad each had unique traits beneficial in levels. Enemies could now be thrown or hit with vegetables instead of just jumped on. This expanded RPG-like elements in a Mario game. The varied playstyles laid groundwork for future character selection options. Super Mario Bros. 2 showed how creativity with power-ups and character movesets kept the series feeling fresh with each new entry.
+### World 1-1 Remade and Amplified in Super Mario Bros. 3  
+Super Mario Bros. 3 built upon the original with new powers and worlds. Addition of suits like Tanooki and Frog opened more creative level designs. Later areas offered completely new challenges from anything seen before. This 1990 side-scroller took everything people loved about the original and expanded it to its fullest potential. Its masterful level design, charming presentation and power-ups cemented Mario as a dominant force in gaming. SMB3 set a new high watermark for the series and platformers as a whole for years to come.
+### A Super Mario World of Possibilities  
+The landmark 1991 SNES launch title reinvented the series in color. Yoshi was introduced as a mount with abilities like eating enemies. Secrets were unlocked by finding Exits in each level of the huge map. Non-linear level progression and Yoshi's unique gameplay widened the breadth of possibilities. Super Mario World took the carefully crafted platforming to an unprecedented scale. Its technical prowess on the SNES showed what was possible while retaining the tight gameplay people loved. SMW left an indelible mark that inspired future 3D entries and cemented Mario as the mascot of Nintendo.
+### Classic Mario on the Go with the Advance Series
+The 4 GBA games included remakes that allowed classic 2D Mario on the go. They offered tutorials while preserving the challenge of the originals. Players could now access classics anywhere with just a Game Boy. This portability opened new avenues for newcomers and veterans alike to enjoy these timeless games. The Advance series proved these classics retained widespread appeal for new generations, establishing their status as cornerstones of gaming.
+### Lessons Learned from Decades of Excellence
+Decades later these games still captivate with their tight controls and level design. They established the blueprint all future titles still follow in quality platforming. Mario has continued to evolve while honoring the foundations laid by these seminal classics. Their enduring popularity and influence stem from perfecting accessible, creative gameplay through refinement and iteration. The evolution of Mario from 1981 to the present day shows how embedding these principles leads to gaming icons that stand the test of time.

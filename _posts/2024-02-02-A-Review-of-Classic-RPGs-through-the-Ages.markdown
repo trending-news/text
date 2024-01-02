@@ -1,0 +1,22 @@
+---
+layout: post
+title: "A Review of Classic RPGs through the Ages"
+date:   2024-02-02 17:48:26 +0000
+categories: Gaming
+excerpt_image: https://www.gamersdecide.com/sites/default/files/styles/news_images/public/rpg-image-d.jpg
+---
+
+## Early Computer RPGs laid the Foundations
+RPGs originated on computers in the 1970s inspired by pen-and-paper RPGs. Early games like Rogue established leveling systems and dungeon crawling in a text-based format. Players had to use their imagination to visualize the game world and adventures as they explored mazes of rooms searching for treasure and battling monsters. These early experimental titles laid the foundation for what would later become more advanced video game RPGs by introducing character progression and exploration elements. They demonstrated there was an audience interested in playing RPGs on computers and consoles.
+## The NES Era brought Japanese RPGs to the West
+The 8-bit NES console was home to many iconic Japanese RPGs in the 1980s that helped spread awareness and fandom of the genre overseas. Titles like the original Final Fantasy and Dragon Quest games offered captivating stories, engaging turn-based battles, and a sense of adventure as players traveled the world map visiting towns and dungeons. Meanwhile EarthBound combined quirky humor with social commentary. These landmark titles demonstrated how RPGs could tell meaningful stories through gameplay. Western RPGs were also transformed as PC editions of Wizardry, Ultima, and Dungeons & Dragons series came to NES bringing those worlds to living rooms.
+### SNES saw the Golden Age of 16-bit RPGs  
+The SNES was truly the golden age of 16-bit RPGs with masterpieces released that are still fondly remembered today. Chrono Trigger from Square is considered one of the greatest of all time for its innovative gameplay, deep storyline interweaving different time periods, and charming characters. It showed how an RPG could be both cinematic and engaging to control. The EarthBound sequel delivered another offbeat adventure. Beloved series like Final Fantasy and Dragon Quest continued to captivate. JRPG developers explored new gameplay ideas that pushed the genre forward while honoring its roots.
+
+![](https://www.gamersdecide.com/sites/default/files/styles/news_images/public/rpg-image-d.jpg)
+## PlayStation launched 3D RPG Era
+The original PlayStation brought RPGs into the third dimension. Final Fantasy VII from Square became a phenomenon with its epic cinematic storytelling, likable cast, and seamlessly integrated battles. It demonstrated how fully 3D worlds and pre-rendered cutscenes could immerse players in a way previously unseen. Other legendary JRPGs thrived like Wild Arms and Tales of games. Meanwhile Western RPGs evolved with critically acclaimed isometric titles Baldur's Gate and Fallout combining exploration, story, and stats in stunning 3D worlds. PlayStation proved RPGs had mass market appeal by expanding to new audiences.
+### Gamecube, Xbox & PS2 housed Franchise Heydays
+Many beloved series reached new heights on the sixth generation of consoles. Nintendo GameCube was home to charming Paper Mario titles continuing the Mario RPG tradition. Skies of Arcadia Legends offered a sprawling airship adventure. Microsoft's original Xbox launched breakout hits Knights of the Old Republic blending Star Wars with BioWare's signature RPG storytelling. Fable let players shape their character's morality. Sony's PlayStation 2 hosted numerous Final Fantasy entries plus demonstrative Shin Megami Tensei games and high school life RPG Persona 3 and 4. These platforms cemented favorite franchises and introduced them to wider audiences. 
+### Modern Hits blend Old & New
+Contemporary western RPGs like Dragon Age, The Elder Scrolls V: Skyrim, and Mass Effect have kept the genre relevant by combining beloved turn-based and open-world mechanics with cutting-edge visuals and technology. Meanwhile, indie RPGs recapture classic charm in bite-sized doses perfect for nostalgic veterans and newcomers alike. And in Japan, the long-running Persona series continued evolving with the acclaimed Persona 5 while maintaining beloved social links and style-based gameplay. These modern hits demonstrate how RPG traditions can carry forward to new generations while respecting history. The future remains bright as developers continue crafting new stories and systems to engage players for years to come.
