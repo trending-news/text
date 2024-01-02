@@ -1,11 +1,11 @@
-title: SE News
+title: Trending News
 email: your-email@domain.com
-author: senews
+author: trending-news
 copyright: "Unpublished Work (cleft) 2023-{currentYear} {author}"
 description: >- # this means to ignore newlines until "baseurl:"
   News and Ideas.
-baseurl: "/in" # the subpath of your site, e.g. /blog
-url: "https://senews.github.io" # the base hostname & protocol for your site, e.g. https://example.com
+baseurl: "/text" # the subpath of your site, e.g. /blog
+url: "https://trending-news.github.io" # the base hostname & protocol for your site, e.g. https://example.com
 favicon: "" # the favicon for your site
 yat:
   date_format: "%b %d, %Y"
@@ -13,7 +13,7 @@ sitemap: true
 lang: "en"  # default lang is en
 defaults:
   home:
-    heading: "SE News Station"
+    heading: "News Station"
     subheading: "News & Events"
     # banner: "Your image url"
 excerpt:
