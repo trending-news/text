@@ -1,0 +1,28 @@
+---
+layout: post
+title: "Encounters with Indian Cricket Legends"
+date:   2024-03-16 22:38:47 +0000
+categories: Gaming
+excerpt_image: https://c.ndtvimg.com/2018-09/9vo151tg_indian-cricket-team-2007_625x300_18_September_18.jpg?q=60
+---
+
+## Meeting the Indian Cricket Team as a Kid ### Unexpected Meeting
+As a nine-year old kid, I accompanied my father who worked for the state lieutenant governor, to an event where the entire 2008 India national cricket squad was present. To my surprise and excitement, the players were mingling with guests and I got the opportunity to meet my childhood heroes up close. I nervously walked up to Sachin Tendulkar who warmly greeted me with a smile. His legendary focus and determination were evident even in that brief interaction. I still have the autographed page from the registration book he signed for me that day. Gautam Gambhir and others also took time to sign despite their busy schedules. It was a surreal experience for a young fan to interact with his sports idols.
+
+![](https://c.ndtvimg.com/2018-09/9vo151tg_indian-cricket-team-2007_625x300_18_September_18.jpg?q=60)
+### Rising Star Virat Kohli
+Though only 19 at the time, Virat Kohli had already impressed cricket experts with his batting prowess and energy on the field. By chance, I ended up sitting next to Kohli on a flight later that year. His commitment to fitness and skills was visible even back then. I still have the signed boarding pass he generously provided. Despite his fame, Kohli remained gracious to his young fans. That brief interaction fueled my admiration for his dedication to become one of the best batsmen in the world.
+## Chatting with Gautam Gambhir in 2013 ### Casual Meeting  
+A few years later in 2013, I spotted Gautam Gambhir alone at a family wedding function we both happened to attend. Seizing the opportunity, I walked up and introduced myself as one of his young admirers from our initial meeting years ago. Gambhir fondly remembered our first autograph and engagement. We casually chatted about cricket for several minutes. He obliged my request for a photo together, encouraging me to pursue my passion and dreams. Gambhir's down-to-earth nature left a lasting impression.
+## Memories with the Master Blaster ### Tendulkar the Professional
+Sachin Tendulkar's batting genius inspired countless fans around the world, including me as a child. I distinctly recollect how focused and attentive Tendulkar was while signing for me all those years ago, even carefully inspecting the pen used. His dedication to his craft was evident from a young age. Tendulkar remains one of my all-time favorite cricketers and that signed book a treasured memory of interacting with the legendary "Master Blaster".
+## A Shy Encounter with Yuvvraj Singh ### A Brief Glimpse  
+During an event in Chandigarh, cricket star Yuvvraj Singh called me over while mingling with fans. Overcome with shyness seeing my favorite all-rounder in person, I hurried away without a word when he tried interacting. Years later, I regret not mustering the courage for even a quick picture. It was a valuable lesson that opportunities do not come often and should be seized. Yuvvraj's friendly demeanor despite his superstar status is something I will always remember.
+## Meeting Idol Sreesanth ### Bowler with Attitude  
+Young and brash Sreesanth was easily my most idolized cricketer during the mid-2000s for his aggressive bowling and fielding. I vividly recall meeting him outside the stadium after a tournament match and gleefully getting a photograph. His infectious energy and enthusiasm to perform for India captured my admiration. That signed photo taken with my favorite player at the time remains one amongst my prized possessions.
+## Chatting with R. Ashwin on a Flight ### Cool and Collective Conversation
+To my pleasant surprise a few years ago, I spotted Ravichandran Ashwin seated in economy class on a domestic flight. I sheepishly introduced myself to the star off-spinner who instantly made me feel at ease. We spent the hour-long journey casually discussing cricket strategies, his experiences of playing globally and advice for young talent. Ashwin's relaxed composure was striking for an international celebrity of his stature. His grounded nature reinforced my belief that true success is founded on virtues beyond fame.
+## Bowling to International Stars ### Learning from the Pros
+My hometown hosted an India vs West Indies one-day international years ago where I assisted with minor duties. It was a dream to observe world-class cricketers practice up close. I still recall the laser-focus of legends like Chris Gayle and meticulous regimes of bowlers varying their pace and angles. The professionalism shown even during training helped understand what it takes to compete at the highest level. That experience fuelled my enthusiasm to hone technique and fitness as a player. 
+## Future Dreams ### Aspiring for More
+While no longer actively playing competitive cricket, I remain passionate about the game that shaped my childhood. Over the years, chance encounters with batting greats, athletes and others connected to cricket have offered glimpses into their journeys. These experiences ignited my desire to someday give back to the sport, perhaps through coaching or mentoring young talent in my community. Till then, I look forward to following the exploits of current stars and legends of the game for years to come as an avid lifelong fan.
