@@ -4,6 +4,7 @@ title: "Choosing Between PS4 and Xbox One - A Comprehensive Guide"
 date:   2024-01-01 21:25:22 +0000
 categories: Gaming
 excerpt_image: https://www.wikihow.com/images/b/b2/Decide-Between-PS4-and-Xbox-One-Step-10.jpg
+image: https://www.wikihow.com/images/b/b2/Decide-Between-PS4-and-Xbox-One-Step-10.jpg
 ---
 
 ### Personal Background and History with Consoles
